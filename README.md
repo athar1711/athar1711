@@ -9,7 +9,7 @@
 Nice to meet you! My name is Muhammad Athar. I am a passionate software engineer, with over 2 years of experience, dedicated to creating innovative solutions that enhance people's lives and make a positive impact on society through technology. My focus is on building user-friendly applications that solve real-world problems, streamline processes, and improve overall quality of life. I believe in the power of technology to connect people and transform ideas into tangible benefits.
 
 - 🔭 I’m currently working in Express.js, Fastify, NestJS & FastAPI
-- 🌱 I’m currently learning LiveKit & WebRTC
+- 🌱 I’m currently learning K8s
 - ⚡ I’m looking for help with getting involved in the open source community
 
 ## Industries Served
