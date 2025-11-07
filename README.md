@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/athar1711/)](https://www.linkedin.com/in/athar1711/)
 [![GMail](https://img.shields.io/badge/-GMAIL-orange?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335&link=mailto:atharch009@gmail.com)](mailto:atharch009@gmail.com)
 
-Nice to meet you! My name is Muhammad Athar. I am a passionate software engineer, with over 2 years of experience, dedicated to creating innovative solutions that enhance people's lives and make a positive impact on society through technology. My focus is on building user-friendly applications that solve real-world problems, streamline processes, and improve overall quality of life. I believe in the power of technology to connect people and transform ideas into tangible benefits.
+Nice to meet you! My name is Muhammad Athar. I am a passionate software engineer, with over 3 years of experience, dedicated to creating innovative solutions that enhance people's lives and make a positive impact on society through technology. My focus is on building user-friendly applications that solve real-world problems, streamline processes, and improve overall quality of life. I believe in the power of technology to connect people and transform ideas into tangible benefits.
 
 - 🔭 I’m currently working in Express.js, Fastify, NestJS & FastAPI
 - 🌱 I’m currently learning K8s
