@@ -2,7 +2,7 @@
 
 - _Software Engineer at [Musketeers Tech](https://www.musketeerstech.com/)_
 - _Lead Backend Engineer at [Chatter Social](https://www.chattersocial.io/)_
-- _Download this app {https://apps.apple.com/us/app/noonan-caddie-smart-golf-gps/id6446026532} to checkout my work
+- Download this app {https://apps.apple.com/us/app/noonan-caddie-smart-golf-gps/id6446026532} to checkout my work
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/athar1711/)](https://www.linkedin.com/in/athar1711/)
 [![GMail](https://img.shields.io/badge/-GMAIL-orange?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335&link=mailto:atharch009@gmail.com)](mailto:atharch009@gmail.com)
